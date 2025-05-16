@@ -1,0 +1,1 @@
+alert("Vedio and audio are not copyright")
